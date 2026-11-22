@@ -1,0 +1,24 @@
+Raw rows: 28303   after cleaning: 28303
+Compartments used: 10
+Proteins with more than one location: 23.6%
+Sequence length: median 433, mean 557, max 34350; 11.3% longer than 1000
+
+Proteins per compartment:
+Cytoplasm                9870
+Nucleus                  9720
+Cell membrane            4187
+Extracellular            3301
+Mitochondrion            2590
+Endoplasmic reticulum    2180
+Lysosome/Vacuole         1496
+Golgi apparatus          1279
+Plastid                  1047
+Peroxisome                304
+
+Proteins per fold:
+Partition
+0    5963
+1    5451
+2    5731
+3    5696
+4    5462

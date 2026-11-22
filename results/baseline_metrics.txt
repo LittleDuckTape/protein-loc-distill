@@ -1,0 +1,18 @@
+Student-alone baseline (PRELIMINARY)
+Model: ESM-2-8M frozen embeddings + logistic regression
+Proteins: 3000 (2445 train / 555 test), train folds != 4, test fold 4
+Exact-match accuracy: 0.359
+Macro-F1:             0.368
+Mean per-label MCC:   0.342
+
+F1 per compartment:
+  Cytoplasm               0.633
+  Nucleus                 0.698
+  Extracellular           0.717
+  Cell membrane           0.510
+  Mitochondrion           0.303
+  Plastid                 0.412
+  Endoplasmic reticulum   0.406
+  Lysosome/Vacuole        0.000
+  Golgi apparatus         0.000
+  Peroxisome              0.000
